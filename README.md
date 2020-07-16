@@ -9,5 +9,5 @@ Output directory absolute path - ex. C:\gen
 Project name - Valid filename
 Filter - All file type that will be included during importing. This is ; separated ex. cpp;c;cc;h, use .* or *.* to include all.
 
-Solution file .sln is create on output directory after importing.
+Solution file(.sln) is create on output directory after importing.
 Open .sln file in Visual Studio.
