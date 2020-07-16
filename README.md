@@ -10,5 +10,5 @@ python import.py C:\83.0.4103.61_build C:\gen Project_1 \*.\*
 
 python import.py C:\83.0.4103.61_build C:\gen Project_1 cc;cpp;h;c
 
-Solution file(.sln) is created on output directory after importing.
+Solution file(.sln), project file(.vcxproj) and project filter file(.vcxproj.filters) are created on output directory after importing.
 Open .sln file in Visual Studio.
